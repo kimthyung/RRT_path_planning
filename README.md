@@ -1,10 +1,10 @@
 # RRT based path planning
 
-RRT based path planning applied at  Yonsei University
+### ENGINEERING NUMERICAL ANALYSIS Final Project
 
 RRT(Rapidly-exploring Random Tree) algorithm is designed to efficiently search paths in nonconvex high-dimensional spaces. RRT based path planning expands the tree to a randomly-sampled point in the configuration space while satisfying given constraints.
 
-This project aims to generate paths using the Rapidly-exploring Random Tree (RRT) algorithm. Starting with testing on a virtual map, the project has also successfully been tested on paths extracted from within Yonsei University premises.
+This project aims to generate paths using the Rapidly-exploring Random Tree (RRT) algorithm. Starting with testing on a virtual map, the project has also successfully been tested on paths extracted from within Yonsei University.
 
 <br>
 
