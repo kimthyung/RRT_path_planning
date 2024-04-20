@@ -11,39 +11,37 @@ This project aims to generate paths using the Rapidly-exploring Random Tree (RRT
 # Path Generation and Post Processing
 
 ### Binary Coded Virtual Map for Testing
+### Random Tree in Blue and Generated Path to Ending Point in Red
 Starting Point with Green Marker, Ending Point with Red Marker
 
 
-<img src="https://github.com/kimthyung/RRT_path_planning/assets/98934172/b445e577-c36f-493d-9631-b966e3ff23eb" width="400" height="300"/>
+<p align="center"> <img src="https://github.com/kimthyung/RRT_path_planning/assets/98934172/b445e577-c36f-493d-9631-b966e3ff23eb" width="400" height="300"/> <img src="https://github.com/kimthyung/RRT_path_planning/assets/98934172/abd9fe54-531c-4fdb-948f-108c5a6cb804" width="400" height="300"/> <figcaption> 주석 내용 </figcaption>
 
 
 
 
-### Random Tree in Blue and Generated Path to Ending Point in Red
 
 
-![image](https://github.com/kimthyung/RRT_path_planning/assets/98934172/abd9fe54-531c-4fdb-948f-108c5a6cb804)
 
 
-### Path After First Smoothing Process
 
 
-![image](https://github.com/kimthyung/RRT_path_planning/assets/98934172/6b99d080-216f-41ac-b764-3584f4afc706)
 
+### Path After First & Second Smoothing Process
 
-### Path After Second Smoothing Process
-
-
-![image](https://github.com/kimthyung/RRT_path_planning/assets/98934172/21a47b74-46e2-4432-893f-83c8af6b6832)
+<p align="center"> <img src="https://github.com/kimthyung/RRT_path_planning/assets/98934172/6b99d080-216f-41ac-b764-3584f4afc706" width="400" height="300"/> <img src="https://github.com/kimthyung/RRT_path_planning/assets/98934172/21a47b74-46e2-4432-893f-83c8af6b6832" width="400" height="300"/> <figcaption align="center">3개 이미지 띄우기</figcaption></p>
 
 
 
 ### Final Path 
 
 
-![image](https://github.com/kimthyung/RRT_path_planning/assets/98934172/8162f19c-9531-44ca-839d-45f5e782fbdf)
+<img src="https://github.com/kimthyung/RRT_path_planning/assets/98934172/8162f19c-9531-44ca-839d-45f5e782fbdf" width="400" height="300"/>
 
 
 
 <div align="center">
 </div>
+
+<p align="center">  <img src="이미지경로" align="center" width="32%">  <img src="이미지경로" align="center" width="32%"> <figcaption align="center">3개 이미지 띄우기</figcaption></p>
+
