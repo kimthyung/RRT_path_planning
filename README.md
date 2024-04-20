@@ -1,6 +1,6 @@
 # RRT based path planning
 
-### ENGINEERING NUMERICAL ANALYSIS Final Project(MATLAB R2023b)
+### Engineering Numerical Aalaysis Final Project(MATLAB R2023b)
 
 RRT(Rapidly-exploring Random Tree) algorithm is designed to efficiently search paths in nonconvex high-dimensional spaces. RRT based path planning expands the tree to a randomly-sampled point in the configuration space while satisfying given constraints.
 
