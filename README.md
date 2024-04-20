@@ -1,5 +1,19 @@
-# RRT_path_planning
-RRT based path planning applied at  Yonsei University.
+# RRT based path planning
 
-이 프로젝트는 RRT (Rapidly-exploring Random Tree) 알고리즘을 사용하여 경로를 생성하는 것을 목표로 합니다. 이 프로젝트는 가상의 맵에서의 테스트를 시작으로, 실제 Yonsei University 내부에서 추출된 경로 상에서도 성공적으로 테스트되었습니다.
+RRT based path planning applied at  Yonsei University
 
+RRT(Rapidly-exploring Random Tree) algorithm is designed to efficiently search paths in nonconvex high-dimensional spaces. RRT based path planning expands the tree to a randomly-sampled point in the configuration space while satisfying given constraints.
+
+This project aims to generate paths using the Rapidly-exploring Random Tree (RRT) algorithm. Starting with testing on a virtual map, the project has also successfully been tested on paths extracted from within Yonsei University premises.
+
+
+
+# Path Generation and Post Processing
+
+
+<div align="center">
+  
+  ### Virtual Map for Testing -  Starting Point with Green Marker, Ending Point with Red Marker
+  
+  ![image](https://github.com/kimthyung/RRT_path_planning/assets/98934172/b445e577-c36f-493d-9631-b966e3ff23eb)
+</div>
